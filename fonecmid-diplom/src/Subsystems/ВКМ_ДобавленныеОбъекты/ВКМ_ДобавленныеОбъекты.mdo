@@ -12,4 +12,6 @@
     </pages>
   </help>
   <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Enum.ВидыДоговоровКонтрагентов</content>
+  <content>Catalog.ДоговорыКонтрагентов</content>
 </mdclass:Subsystem>
