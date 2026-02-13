@@ -14,4 +14,5 @@
   <includeInCommandInterface>true</includeInCommandInterface>
   <content>Enum.ВидыДоговоровКонтрагентов</content>
   <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
 </mdclass:Subsystem>
